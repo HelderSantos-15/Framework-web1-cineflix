@@ -49,13 +49,11 @@ Abra no navegador: http://localhost:5173
 
 \*Links:
 
-Repositório no GitHub: Clique aqui
+Repositório no GitHub: https://github.com/HelderSantos-15/Framework-web1-cineflix.git
 
-Aplicação publicada (Vercel): Clique aqui
+Aplicação publicada (Vercel): https://framework-web1-cineflix.vercel.app/
 
-Projeto no CodeSandbox: Clique aqui
-
-Vídeo de apresentação: Clique aqui
+Projeto no CodeSandbox: https://codesandbox.io/p/github/HelderSantos-15/Framework-web1-cineflix/main?import=true
 
 \*Estrutura do Projeto
 
